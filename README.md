@@ -5,12 +5,6 @@
 </p>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcredguy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&disable_animations=true&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vcredguy&theme=dracula&column=10&row=2&margin-w=15&margin-h=0&no-bg=false&no-frame=true&order=4&disable_animations=true" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
